@@ -10,4 +10,4 @@
 - 2 thing
 - 3 thing
 
-![](homework.png "graph")
+!["graph"](homework.png)
