@@ -9,3 +9,5 @@
 - 1 thing
 - 2 thing
 - 3 thing
+
+![](homework.png "graph")
